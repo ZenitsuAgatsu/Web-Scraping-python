@@ -1,8 +1,12 @@
 # Web-Scraping-python
 
-Built a Python script using BeautifulSoup and requests to extract structured data from a live website.
+Built a robust Python scraper using BeautifulSoup and Requests to extract structured data from a live website, handling pagination, dynamic content, and storing results in CSV/JSON.
 
-Handled pagination, dynamic content, and anti-scraping mechanisms for robust data extraction.
 
-Stored and organized scraped data in CSV/JSON format for further analysis.
+
+
+
+
+
+
 
